@@ -1,0 +1,83 @@
+.form-heading{
+    font-size: 36px;
+}
+
+.doc-registration-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f4f8fb;
+  margin-left: 450px;
+  width: 1000px;
+  border-radius: 12px;
+}
+
+.doc-registration-form {
+  background: #fff;
+  padding: 2.5rem 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0, 60, 255, 0.08);
+  width: 1000px;
+  height: 1300px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  justify-content: center;
+  margin: 20px;
+}
+
+.doc-registration-form h2 {
+  color: #0a3d91;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.doc-registration-form label {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.5rem;
+  color: #0a3d91;
+  gap: 0.6rem;
+}
+
+.doc-registration-form input,
+.doc-registration-form select {
+  padding: 1.2rem;
+  border: 1px solid #b3c6e0;
+  border-radius: 8px;
+  font-size: 1.3rem;
+  outline: none;
+  transition: border 0.2s;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.doc-registration-form input:focus,
+.doc-registration-form select:focus {
+  border: 1.5px solid #0a3d91;
+}
+
+.doc-registration-form button {
+  background: #0a3d91;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 1.2rem;
+  font-size: 1.3rem;
+  cursor: pointer;
+  margin-top: 1.5rem;
+  transition: background 0.2s;
+  width: 100%;
+}
+
+.doc-registration-form button:hover {
+  background: #1558c0;
+}
+
+.login-form {
+  max-width: 1000px;
+  height: auto;
+  min-height: 350px;
+  padding: 2rem 1.5rem;
+}

@@ -1,0 +1,80 @@
+.main_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+}
+
+.contact_bar {
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    background-color: #007cb9;
+    color: white;
+}
+
+.left_div {
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    gap: 20px;
+}
+
+.right_div {
+    display: flex;
+    flex-direction: row;
+    margin-right: 100px;
+}
+
+#root {
+    background-color: transparent;
+    padding: 0;
+    margin: 0;
+}
+
+.nav_bar {
+    color: #475053;
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    background-color: white;
+    padding: 2px;
+}
+
+.left_nav {
+    display: flex;
+    flex-direction: row;
+    margin-left: 93px;
+    font-size: 20px;
+}
+
+.right_nav {
+    display: flex;
+    flex-direction: row;
+    margin-right: 100px;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.right_nav a {
+    color: black;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out, text-decoration 0.2s ease-in-out;
+    font-family: sans-serif;
+}
+
+.right_nav a:hover {
+    color: #007cb9;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.nav_button {
+    border-radius: 12px;
+    background-color: #007cb9;
+    color: white;
+}
