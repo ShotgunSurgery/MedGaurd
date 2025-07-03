@@ -1,52 +1,71 @@
-# MedGarud 🛡️
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="https://github.com/yourusername/medgaurdl">
+    <img src="https://user-images.githubusercontent.com/8019099/210054112-5955e812-a76e-4160-9ddd-58f2c72f1cce.png" alt="Logo">
+  </a>
 
-**MedGarud** is a smart, AI-assisted healthcare tool designed to promote health awareness and guide users toward better daily well-being choices.
+  <h3 align="center">MedGaurdl</h3>
 
----
+  <p align="center">
+    Guarding Lives, Digitally. <br />
+    Your decentralized health defense system.
+  </p>
+</p>
 
-## 📑 Table of Contents
+<!-- ABOUT THE PROJECT -->
 
-- [About](#about)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Tech Stack](#tech-stack)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## About the Project
 
----
+MedGaurdl is an open-source health emergency alert and medical record platform built to empower users with privacy-first, decentralized control over their health data.
 
-## 🧾 About
+Imagine you're unconscious in a public place — your MedGaurdl ID can help first responders get just the right info securely. Or you're switching doctors — share records with one click, no corporate middlemen.
 
-> _MedGarud empowers users with intelligent, privacy-aware medical tracking and suggestions._
+MedGaurdl aims to:
+- Create secure medical IDs linked to essential health info
+- Allow trusted access to records in emergencies
+- Respect privacy with strong encryption and decentralized data handling
 
-Whether you're managing symptoms, exploring better habits, or just curious about your health stats—MedGarud has you covered.
-
----
-
-## ✨ Features
-
-- **AI Health Assistant** – Personalized health insights via AI.
-- **Metrics Logging** – Track symptoms, moods, or vitals.
-- **Multi-Device Friendly** – Works on web and mobile.
-- **Privacy-Focused** – No data shared without permission.
+It is designed for developers, researchers, and health-tech enthusiasts who care about **transparency (openness)**, **security**, and **accessibility** in healthcare systems.
 
 ---
 
-## 🛠️ Getting Started
+## Built With
 
-### 🔧 Prerequisites
+- [Next.js](https://nextjs.org/)
+- [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [JWT](https://jwt.io/) for secure token-based auth
+- [IPFS](https://ipfs.tech/) for optional decentralized storage
 
-- Python `>=3.8`
-- Node.js `>=18` (for frontend)
+---
+
+## Contact Us
+
+Have questions or want to collaborate?  
+Reach out at: **adityasmagrawal@gmail.com**
+
+---
+
+## Getting Started
+
+Follow the steps below to set up the project locally.
+
+### Prerequisites
+
+Ensure you have the following installed:
+- Node.js >= 18.x
+- npm or yarn
+- MongoDB (local or Atlas)
 - Git
 
-### 📥 Installation
+---
+
+### Installation
+
+1. **Clone the repo**
 
 ```bash
-git clone https://github.com/<your-username>/MedGarud.git
-cd MedGarud
-
+git clone https://github.com/yourusername/medgaurdl.git
