@@ -32,8 +32,10 @@ In many healthcare systems, diagnostic tests are sometimes prescribed not out of
 - **Streamlit** (UI for demo and testing)
 - **scikit-learn** (optional for structured rule-based checks)
 
----
+
+<img width="1236" height="686" alt="Screenshot 2025-09-19 170108" src="https://github.com/user-attachments/assets/bd5c5c15-2ea7-4e0d-9173-47e777654210" />
 ![Screenshot 2025-06-20 113849](https://github.com/user-attachments/assets/b59555dd-c5b0-4df2-a08e-c2e6167885d5)
 ![Screenshot 2025-06-20 113828](https://github.com/user-attachments/assets/6dab2054-87fb-4490-826a-cd5ce1f628b1)
 ![Screenshot 2025-06-20 113802](https://github.com/user-attachments/assets/e7341c8b-3ec6-4683-9da4-ef3bb678f01b)
+
 
